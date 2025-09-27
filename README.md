@@ -6,7 +6,7 @@ A continuación, se describen las técnicas seleccionadas: Análisis de Componen
 
 ## Archivos incluidos
 - `TFG_Ibai-Vazquez-Souto.pdf` – documento principal del trabajo  
-- `Conjuntos_Datos/` – carpeta con los datasets empleados en los análisis
+- `Conjuntos_Datos` – carpeta con los datasets empleados en los análisis, previamente limpiados y transformados para su uso
 
 **Nota:** Los códigos utilizados para los análisis están incluidos en el anexo del PDF del TFG.
 
