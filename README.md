@@ -5,7 +5,7 @@ Se introducen conceptos básicos relacionados con el análisis de datos de grand
 A continuación, se describen las técnicas seleccionadas: Análisis de Componentes Principales, Análisis Factorial de Correspondencias Simples y Análisis de Correspondencias Múltiples. Cada una se presenta desde una perspectiva teórica y se aplica a un conjunto de datos reales, ilustrando su utilidad en la exploración de la información.
 
 ## Archivos incluidos
-- `TFG_Tecnicas_Estadisticas_Analisis_R.pdf` – documento principal del trabajo  
+- `TFG_Ibai-Vazquez-Souto.pdf` – documento principal del trabajo  
 - `Conjuntos_Datos/` – carpeta con los datasets empleados en los análisis
 
 **Nota:** Los códigos utilizados para los análisis están incluidos en el anexo del PDF del TFG.
